@@ -1,6 +1,8 @@
 #Website Layout Notes 
 
-##These notes cover the process of implementing a website. Each of these versions contain 3 pages: index.html, location.html and menu.html. Material originally from PluralSight. 
+These notes cover the process of implementing a website. Each of these versions contain 3 pages: index.html, location.html and menu.html.
+
+Material content from PluralSight. 
 
 ###07_begin: No styles added. Routing to different pages implemented using
 
